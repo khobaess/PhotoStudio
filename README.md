@@ -1,6 +1,6 @@
 # Lhobar Studio (№27 Photo studio, services, orders)
 
-This project is a web application for booking the "Lhobar Studio" photo studio.
+This project is a web application for the "Lhobar Studio" photo studio.
 
 ## Features
 
